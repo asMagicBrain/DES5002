@@ -1,0 +1,40 @@
+{
+  "app_commit": "0b45a4521a12f8b9111376dc2889aa1d359da0de",
+  "audience": "student",
+  "bundle_manifest_sha256": "51321efd87dd18384d2a95f4915af22ca702e508c39f3c620320fa4b939a9d73",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "2183f77a8cd32cd975965f14fd379464e70b52502e5ab19c5de5b400e952a6dd",
+      "size": 122
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "46ea06c3e644f11f54144b9dee861426c6f47085baf2f7d7b6795fad4c984b3f",
+      "size": 1516
+    },
+    {
+      "path": "README.md",
+      "sha256": "26ca012d3d2f693c2baa14dab80b0ce4f0f9d08572a7d2cb1e4075953162b7e5",
+      "size": 1279
+    },
+    {
+      "path": "offerings/2026-autumn/.gitbook.yaml",
+      "sha256": "8f449ea9886de4357193691e88ed8b92bd6aec464e1c78b0e9c29815c502f10f",
+      "size": 62
+    },
+    {
+      "path": "offerings/2026-autumn/README.md",
+      "sha256": "e5d5601622768669ae9b7b2cfff499e9d0d3889af021604d68c11c50123641c5",
+      "size": 69
+    },
+    {
+      "path": "offerings/2026-autumn/SUMMARY.md",
+      "sha256": "9acc7d79637e51ecc03c38b4d88b6a684e0572a7ee07638d6e706223aeb50ed4",
+      "size": 43
+    }
+  ],
+  "mode": "one-page",
+  "offering_id": "2026-autumn",
+  "schema": "asteach-tester-initialization/v1"
+}

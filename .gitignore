@@ -1,0 +1,10 @@
+# Local machine and agent state
+.course-state/
+.planning/
+.preview/
+preview/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
