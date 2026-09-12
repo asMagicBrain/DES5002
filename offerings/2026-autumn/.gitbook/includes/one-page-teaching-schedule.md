@@ -2,7 +2,7 @@
 title: one-page-teaching-schedule
 ---
 
-[**Class 01: Introduction to Robots**](https://des5002.ancorasir.com/wp-content/uploads/2026/09/Lecture-01-Introduction-to-Robots.pdf) **|** Wed Sep 09, 1400–1550
+[**Class 01: Introduction to Robots**](../assets/Lecture-01-Introduction-to-Robots.pdf) **|** Wed Sep 09, 1400–1550
 
 **Class 02: The Rise of Robotics and AI |** Fri Sep 11, 1400–1550
 
