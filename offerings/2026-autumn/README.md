@@ -1,7 +1,7 @@
 ---
 description: Autumn 2026
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
