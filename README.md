@@ -35,5 +35,5 @@ Autumn 2026 provenance record.
 
 Each private Space maps only to its matching offering directory on `main`.
 Initial synchronization uses GitHub → GitBook. Each offering owns its assets;
-no Teacher repository or Preparation content is included. Git sync authentication
-and native Library link verification remain pending. Keep these spaces unpublished.
+no Teacher repository or Preparation content is included. Git sync is connected; class-title links use files imported into each Space’s own
+Library. Keep these spaces unpublished.

@@ -65,36 +65,3 @@ At the end of this course, students will be able to:
 ## Important Deadlines
 
 {% include ".gitbook/includes/one-page-important-deadlines.md" %}
-
-
-{% file src=".gitbook/assets/Week-01-Lecture-01-Introduction-to-Robots.pdf" %}
-Class 01: Introduction to Robots
-{% endfile %}
-
-{% file src=".gitbook/assets/Week-01-Lecture-02-The-Rise-of-Robotics-and-AI.pdf" %}
-Class 02: The Rise of Robotics and AI
-{% endfile %}
-
-{% file src=".gitbook/assets/Week-02-Lecture-03-What-is-Social-Good.pdf" %}
-Class 03: What is Social Good?
-{% endfile %}
-
-{% file src=".gitbook/assets/Week-03-Lecture-04-Robots-for-Social-Good.pdf" %}
-Class 04: Robots & AI for Social Good
-{% endfile %}
-
-{% file src=".gitbook/assets/Week-06-Lecture-05-Generative-Design.pdf" %}
-Class 09: Generative Design Method
-{% endfile %}
-
-{% file src=".gitbook/assets/Week-07-Lecture-06-Soft-Robotics-I.pdf" %}
-Class 10: Soft Robotics I
-{% endfile %}
-
-{% file src=".gitbook/assets/Week-07-Lecture-07-Soft-Robotics-II.pdf" %}
-Class 11: Soft Robotics II
-{% endfile %}
-
-{% file src=".gitbook/assets/24Spring-DesigningRobots4SocialGood.pdf" %}
-Class 20: Design For Good Paper Review
-{% endfile %}
