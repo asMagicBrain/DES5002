@@ -38,14 +38,6 @@ At the end of this course, students will be able to:
 
 {% include ".gitbook/includes/one-page-content-summary.md" %}
 
-## Assumed Knowledge
-
-{% include ".gitbook/includes/one-page-assumed-knowledge.md" %}
-
-## Co-Requisite Courses
-
-To be confirmed.
-
 ## Course Instructor & Teaching Team
 
 {% include ".gitbook/includes/one-page-teaching-team.md" %}
