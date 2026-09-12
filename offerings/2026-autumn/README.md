@@ -65,3 +65,7 @@ At the end of this course, students will be able to:
 ## Important Deadlines
 
 {% include ".gitbook/includes/one-page-important-deadlines.md" %}
+
+{% file src=".gitbook/assets/Lecture-01-Introduction-to-Robots.pdf" %}
+Lecture 01 — Introduction to Robots
+{% endfile %}
