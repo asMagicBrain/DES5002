@@ -20,3 +20,20 @@ No Build, Release, reset, adoption or automatic update is supported here.
 
 No Git repository, remote, Space, access change or publication was created by
 initialization. Agree exact private setup with your agent before those steps.
+
+## Historical Student offerings
+
+These independently authored archives were added from the original course website
+at the instructor's request. The initialization receipt above remains the original
+Autumn 2026 provenance record.
+
+| Offering | Course folder | GitBook Space |
+| --- | --- | --- |
+| Autumn 2025 | [Course](offerings/2025-autumn/README.md) | DES5002 \| Autumn 2025 (`2gGjXy5z7clF3yuXM2eT`) |
+| Spring 2024 | [Course](offerings/2024-spring/README.md) | DES5002 \| Spring 2024 (`RBFPTFCIac2nAXXXniyA`) |
+| Autumn 2022 | [Course](offerings/2022-autumn/README.md) | DES5002 \| Autumn 2022 (`ip54fdilO0oBx6zkrwyR`) |
+
+Each private Space maps only to its matching offering directory on `main`.
+Initial synchronization uses GitHub → GitBook. Each offering owns its assets;
+no Teacher repository or Preparation content is included. Git sync authentication
+and native Library link verification remain pending. Keep these spaces unpublished.
