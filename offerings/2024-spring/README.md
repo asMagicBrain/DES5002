@@ -1,23 +1,5 @@
 ---
 description: Spring 2024
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: false
-  tags:
-    visible: true
-  actions:
-    visible: false
 ---
 
 # DES5002 Designing Robots for Social Good
