@@ -4,6 +4,8 @@ title: one-page-teaching-schedule
 
 [**Class 01: Introduction to Robots**](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAVuDVBGiUqymryHxmdTt%2Fuploads%2Fgit-blob-a351ce399c21781a1461233c06ba60e8a7603edb%2FLecture-01-Introduction-to-Robots.pdf?alt=media) **|** Wed Sep 09, 1400–1550
 
+{% file src="../assets/Lecture-01-Introduction-to-Robots.pdf" %}
+
 **Class 02: The Rise of Robotics and AI |** Fri Sep 11, 1400–1550
 
 **Class 03: Human-Centered Robotics |** Fri Sep 18, 1400–1550
