@@ -12,10 +12,10 @@ title: one-page-teaching-schedule
 
 **Class 05: Workshop: Design case study |** **Change to Sun, date and time TBC**
 
-* _Team formation_&#x20;
+* _Team formation_
 * _Assignment submission_
 
-~~**Class 06: Cancelled and Happy Holiday |** Fri Oct 02~~
+~~**Class 06: Canceled and Happy Holiday |** Fri Oct 02~~
 
 **Class 07: Soft Robotics I |** **Change to Sat Oct 10, time TBC**
 
@@ -37,7 +37,7 @@ title: one-page-teaching-schedule
 
 **Class 16: AI + Text |** Wed Nov 18, 1400–1550
 
-~~**Class 17: Cancelled and Have Fun |** Fri Nov 20~~
+~~**Class 17: Canceled and Have Fun |** Fri Nov 20~~
 
 **Class 18: AI + Image |** Fri Nov 27, 1400–1550
 

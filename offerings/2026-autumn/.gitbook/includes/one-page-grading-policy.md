@@ -26,5 +26,3 @@ Propose a robot for social good using the robotics and AI knowledge learned in t
 * Prepare two posters: one on hardware design and modeling; the other on intelligence/AI and human–robot interaction.
 * Present the work at the final review. Slides or videos may be used for the presentation.
 * Hardware/software prototypes are encouraged but are not required.
-
-Assessment criteria, grade thresholds and submission arrangements are to be confirmed.
