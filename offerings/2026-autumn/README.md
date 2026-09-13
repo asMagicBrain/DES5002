@@ -1,23 +1,5 @@
 ---
 description: Autumn 2026
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: false
-  tags:
-    visible: true
-  actions:
-    visible: false
 ---
 
 # DES5002 Designing Robots for Social Good
