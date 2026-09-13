@@ -1,6 +1,5 @@
 ---
 description: Autumn 2025
-layout: editorial
 ---
 
 # DES5002 Designing Robots for Social Good
